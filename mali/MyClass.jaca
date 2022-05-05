@@ -1,0 +1,16 @@
+
+class MyClass
+
+{
+   int std id;
+   int std roll no;
+   
+   MyClass()
+ 
+  public static void main(String [] args){
+  
+  MyClass a= new MyClass();
+   System.out.print(a)
+
+}
+}

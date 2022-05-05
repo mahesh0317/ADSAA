@@ -1,0 +1,22 @@
+
+public class MyClass1
+
+{
+   int stdid;
+   int stdrollno;
+   
+   MyClass1(){
+	  this.stdid=stdid;
+	  this.stdrollno=stdrollno;
+	   
+   }
+     
+ 
+  public static void main(String [] args){
+  
+  MyClass1 a= new MyClass1();
+   System.out.println(a.stdrollno);
+   System.out.println(a.stdid);
+
+}
+}
